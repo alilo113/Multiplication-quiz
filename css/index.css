@@ -16,6 +16,7 @@ html, body {
     background-color: #fff;
     max-width: fit-content;
     padding: 1rem;
+    margin: 1rem;
 }
 
 button{
@@ -28,4 +29,16 @@ button{
 button:hover{
     background-color: #045494;
     cursor: pointer;
+}
+
+.right{
+    color: green;
+}
+
+.wrong{
+    color: red;
+}
+
+.question{
+    color: black;
 }
